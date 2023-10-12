@@ -9,5 +9,6 @@ class helloWorld
      System.out.println("......Integration with jenkins and GIT......");
      System.out.println(".....Integration with poll SCM......");
      System.out.println(".....Integration with GIT webhook.....");
+     System.out.println(".....ERROR Senario........");
    }
 }
